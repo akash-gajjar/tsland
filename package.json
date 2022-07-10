@@ -1,0 +1,16 @@
+{
+  "name": "tsland",
+  "version": "0.0.0",
+  "description": "Typescript Island for Sky!",
+  "main": "index.js",
+  "repository": "git@github.com:akash-gajjar/tsland.git",
+  "author": "Aakash Gajjar <skyqutip@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^5.1.8"
+  }
+}
