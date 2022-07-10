@@ -1,5 +1,5 @@
 # Typescript monorepo
 
-# LICENSE
+## LICENSE
 
 MIT
